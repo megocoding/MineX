@@ -1,4 +1,4 @@
-<a href="https://apps.apple.com/us/app/minex-minesweeper/id1033152947"><img alt="MineX App Icon" src="images/app_icon.png" style="width:128px; border-radius: 20%"></a>
+<a href="https://apps.apple.com/us/app/minex-minesweeper/id1033152947"><img alt="MineX App Icon" src="images/app_icon.png" style="width:128px"></a>
 
 # MineX
 MineX - Classic Minesweeper for Mac OS X, supports retina display, game statistics (3bv, 3bv/s, IOE...), Game Center leaderboards, all mouse click techniques and game replay.
@@ -8,6 +8,10 @@ Minesweeper is a logic game where mines are hidden in a grid of squares. The obj
 <a href="https://apps.apple.com/us/app/minex-minesweeper/id1033152947" rel="download">
   <img width="196" alt="Download on the Mac App Store" src="images/app_store.png">
 </a>
+
+## Screenshot:
+
+<img alt="Screenshot" src="images/ss1.png">
 
 ## Game Replay:
 
